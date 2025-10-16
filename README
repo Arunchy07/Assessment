@@ -1,0 +1,49 @@
+# Math Problem Templates
+
+HTML templates for solving Trigonometry and Compound Interest problems with visual step-by-step solutions.
+
+## 📁 Files
+
+| Template | Problem 1 | Problem 2 |
+|----------|-----------|-----------|
+| **Trigonometry** | [`Prob1-Trigonometry.html`](Prob1-Trigonometry.html) | [`Prob2-Trigonometry.html`](Prob2-Trigonometry.html) |
+| **Compound Interest** | [`prob1-CI.html`](prob1-CI.html) | [`prob2-CI.html`](prob2-CI.html) |
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/your-username/math-problem-templates.git
+cd math-problem-templates
+# Open any HTML file in your browser
+
+✨ Features
+Visual step-by-step solutions
+
+Color-coded mathematical notation
+
+Interactive diagrams and layouts
+
+No dependencies - pure HTML/CSS
+
+🎯 Problems Solved
+Trigonometry
+Problem 1: 8-15-17 Pythagorean triplet → Sec C + Cot A = 5/3
+
+Problem 2: 20-21-29 Pythagorean triplet → Sec C + Cot A = 7/3
+
+Compound Interest
+Problem 1: ₹8000 → ₹9261 in 3 years (Rate = 5%)
+
+Problem 2: ₹5000 → ₹6050 in 2 years (Rate = 10%)
+
+
+🛠️ Customization
+Update existing templates by:
+
+Changing numbers and variables
+
+Modifying calculation steps
+
+Keeping original CSS structure
+
+⭐ Star this repo if you find it helpful!
